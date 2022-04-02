@@ -1,4 +1,0 @@
-{
-    "mongodb": "mongodb+srv://mern:1234@cluster0.6nuti.mongodb.net/Cluster0?retryWrites=true&w=majority",
-    "secret" : "ADJIFSDOFS"
-}
